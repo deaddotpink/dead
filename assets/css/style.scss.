@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "no-style-please";
 
 a {
   color: hotpink;
